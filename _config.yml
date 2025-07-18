@@ -12,6 +12,23 @@ author:
   avatar : "/assets/images/avatar.jpg"
   bio    : "Ingeniero, creador y entusiasta de la tecnología."
 
+
+# Habilita el sidebar con perfil en todas las páginas
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+
 show_excerpts: true
 paginate: 5
 paginate_path: /page:num/
