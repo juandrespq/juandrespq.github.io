@@ -1,8 +1,8 @@
 ---
-layout: default
-title: "Happy Jekylling!"
+---
+layout: home
+title: "Bienvenido a mi Blog"
+excerpt: "Este es mi blog personal sobre desarrollo, tecnología y más."
 ---
 
-## You're ready to go!
-
-Start developing your Jekyll website.
+¡Hola! En este Blog te compartiré mis proyectos, será un gusto encontrarnos por acá.
