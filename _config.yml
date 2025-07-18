@@ -5,7 +5,9 @@ description: >-
 baseurl: "" 
 url: "https://juandrespq.github.io"
 
-theme: minimal-mistakes-jekyll
+# Usa el tema como remote_theme en lugar de theme:
+remote_theme: mmistakes/minimal-mistakes@4.24.0
+
 
 plugins:
   - jekyll-feed

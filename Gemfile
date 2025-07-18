@@ -1,10 +1,9 @@
-# frozen_string_literal: true
-
 source "https://rubygems.org"
 
-gem "jekyll", "~> 4.3.3"
-gem "minimal-mistakes-jekyll"
-gem "jekyll-seo-tag"
+gem "github-pages", group: :jekyll_plugins
+
+# estos plugins ya vienen con github-pages pero los puedes listar explícitamente
 gem "jekyll-feed"
 gem "jekyll-sitemap"
+gem "jekyll-seo-tag"
 
