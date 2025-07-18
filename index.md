@@ -1,5 +1,4 @@
 ---
----
 layout: home
 title: "Bienvenido a mi Blog"
 excerpt: "Este es mi blog personal sobre desarrollo, tecnología y más."
