@@ -1,0 +1,15 @@
+title: "Blog de Juan Pavez"
+email: "juan.pavez.quijada@gmail.com"
+description: >- 
+  Bienvenido a mi blog personal donde compartire resultados de mis proyectos e investigaciones.
+baseurl: "" 
+url: "https://juandrespq.github.io"
+
+theme: minimal-mistakes-jekyll
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+markdown: kramdown
