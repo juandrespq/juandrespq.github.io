@@ -25,7 +25,8 @@ Pero mi acercamiento a la ciencia de datos lo quise hacer distinto:
 ✅ No necesito levantar servidores para usar los notebooks.  
 ✅ Todo funciona más liviano y dentro de un mismo flujo de trabajo.  
 ✅ No requiere licencias especiales (ni de estudiante, ni pagadas).  
-<img src="../assets/images/posts/CasoDeUsoVSCodeJupyter.png" alt="Ejemplo de uso de Jupyter en VSCode" width="700px" style="border:2px solid #ddd; border-radius:8px;"/>
+
+![Ejemplo de uso de Jupyter en VSCode](/assets/images/posts/CasoDeUsoVSCodeJupyter.png)
 
 ---
 
@@ -34,11 +35,11 @@ Pero mi acercamiento a la ciencia de datos lo quise hacer distinto:
 2. Desde el terminal interno, instalar librerías con `pip install ...` (siempre mejor desde consola, pero desde los notebooks también funciona).  
 3. Usar **Data Wrangler**, que me recuerda mis tiempos en la universidad usando MATLAB. Permite visualizar variables, dimensiones y contenidos de manera muy intuitiva, algo que en **PyCharm sí existe**, pero requiere licenciamiento (ya sea la versión paga o la versión de estudiante, que normalmente se habilita con credenciales universitarias).  
 
-<img src="../assets/images/posts/VSCodeExtPy.png" alt="Extension de Python en VSCode" width="700px" style="border:2px solid #ddd; border-radius:8px;"/>
+![Extension de Python en VSCode](/assets/images/posts/VSCodeExtPy.png)
 
-<img src="../assets/images/posts/VSCodeExtDW.png" alt="Extension Data Wrangler en VSCode" width="700px" style="border:2px solid #ddd; border-radius:8px;"/>
+![xtension Data Wrangler en VSCode](/assets/images/posts/VSCodeExtDW.png)
 
-<img src="../assets/images/posts/VSCodeExtJupter.png" alt="Extension de Jupter Notebooks en VSCode" width="700px" style="border:2px solid #ddd; border-radius:8px;"/>
+![Extension de Jupter Notebooks en VSCode](/assets/images/posts/VSCodeExtJupter.png)
 
 La experiencia es fluida: VS Code abre lo que necesito rápido, puedo probar segmentos de código sin depender de servidores externos y, lo mejor, **sin conexión a internet**.  
 
