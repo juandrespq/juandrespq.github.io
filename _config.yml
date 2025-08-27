@@ -1,19 +1,31 @@
 title: "Juan Pavez | Blog"
-description: "Blog de tecnología, desarrollo y proyectos personales."
+description: "Blog técnico y personal de Juan Pavez"
 email: juanpavez@ejemplo.com
 url: "https://juandrespq.github.io"
+repository: juandrespq/juandrespq.github.io
 baseurl: ""
 
-# Usa el tema como remote_theme en lugar de theme:
-remote_theme: mmistakes/minimal-mistakes@4.24.0
+# Usa el tema remoto
+remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: default # o el skin que prefieras
+
+# Activa el tema remoto en GitHub Pages
+plugins:
+  - jekyll-remote-theme
+  - jekyll-paginate
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Menú lateral
+navigation: main
 
 author:
   name   : "Juan Pavez"
   avatar : "/assets/images/avatar.jpg"
-  bio    : "Ingeniero, creador y entusiasta de la tecnología."
+  bio    : "Ingeniero, desarrollador y creador de soluciones."
 
-
-# Habilita el sidebar con perfil en todas las páginas
+# Configurar layout y sidebar para posts y páginas
 defaults:
   - scope:
       path: ""
@@ -27,24 +39,11 @@ defaults:
     values:
       layout: single
       author_profile: true
-
+  - scope:
+      path: ""
+    values:
+      author_profile: true
 
 show_excerpts: true
 paginate: 5
 paginate_path: /page:num/
-
-plugins:
-  - jekyll-paginate
-  - jekyll-seo-tag
-  - jekyll-feed
-  - jekyll-sitemap
-
-navigation: main
-
-defaults:
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true

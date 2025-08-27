@@ -1,7 +1,9 @@
 ---
 layout: home
 title: "Bienvenido a mi Blog"
-excerpt: "Este es mi blog personal sobre desarrollo, tecnología y más."
+author_profile: true
+classes: wide
 ---
 
-¡Hola! En este Blog te compartiré mis proyectos, será un gusto encontrarnos por acá.
+¡Hola! En este blog te compartiré mis proyectos.  
+Será un gusto encontrarnos por acá.
