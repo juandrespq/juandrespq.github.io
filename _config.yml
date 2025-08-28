@@ -4,6 +4,7 @@ email: juanpavez@ejemplo.com
 url: "https://juandrespq.github.io"
 repository: juandrespq/juandrespq.github.io
 baseurl: ""
+share: false
 
 # Tema
 theme: minimal-mistakes-jekyll
