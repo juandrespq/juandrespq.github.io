@@ -4,6 +4,7 @@ title: "Mi flujo favorito para ciencia de datos con Jupyter en VS Code"
 date: 2025-08-21
 categories: [DataScience, Python, Jupyter]
 tags: [VSCode, JupyterNotebooks, GoogleColab, MachineLearning, Python, Programación, AprendizajeContinuo, IngenieríaAplicada]
+layout: single
 ---
 
 Hola comunidad 👋,  

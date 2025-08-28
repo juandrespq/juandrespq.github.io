@@ -4,6 +4,7 @@ title: "🌡️ Usando la API de MeteoChile en Jupyter Notebooks: datos climáti
 date: 2025-08-27
 categories: [Python, Jupyter, APIs, Refrigeración]
 tags: [Python, JupyterNotebooks, MeteoChile, Climatización, Refrigeración, CienciaDeDatos, WebServices, APIs]
+layout: single
 ---
 
 Hola nuevamente comunidad 👋,  

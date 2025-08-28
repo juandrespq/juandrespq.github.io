@@ -1,9 +1,18 @@
 ---
-title: "Mi Segundo Post"
+title: "Bienvenido a mi blog"
 date: 2025-07-17 22:30:00 -0400
-categories: [Blog]
-tags: [jekyll, github, blog]
 author: "Juan Pavez"
+categories: [General]
+tags: [bienvenida]
+layout: single
 ---
 
-¡Vamos avanzando a pasos de gigantes!
+¡Hola! Este es mi primer post. Pronto compartiré más contenido interesante.
+
+## Características del blog
+
+- Proyectos de desarrollo
+- Tutoriales técnicos
+- Reflexiones personales
+
+¡Espero que disfrutes el contenido!
